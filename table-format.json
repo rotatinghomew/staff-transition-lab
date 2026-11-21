@@ -1,0 +1,47 @@
+{
+  "requirements": {
+    "revision": "str",
+    "role": "str",
+    "skill": "str",
+    "must_modes": "str",
+    "independent": "int",
+    "since": "int",
+    "until": "int"
+  },
+  "evidence": {
+    "id": "str",
+    "pupil": "str",
+    "week": "int",
+    "role": "str",
+    "skill": "str",
+    "event_type": "str",
+    "contribution": "str",
+    "artifact": "str",
+    "mentor": "str"
+  },
+  "slots": {
+    "id": "str",
+    "week": "int",
+    "shift": "str",
+    "role": "str",
+    "skill": "str",
+    "event_type": "str",
+    "mode": "str",
+    "mentor": "str",
+    "capacity": "int"
+  },
+  "mentors": {
+    "id": "str",
+    "role": "str",
+    "since": "int",
+    "until": "int",
+    "event_types": "str"
+  },
+  "receipts": {
+    "seq": "int",
+    "week": "int",
+    "action": "str",
+    "ref": "str",
+    "actor": "str"
+  }
+}

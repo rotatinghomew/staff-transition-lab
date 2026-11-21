@@ -1,0 +1,7 @@
+revision,role,skill,must_modes,independent,since,until
+r1,ops,cues,"local,final",1,1,9
+r1,ops,switch,local,1,1,9
+r1,editor,cuts,"local,remote",1,1,9
+r2,ops,cues,"local,final",2,9,16
+r2,ops,switch,"local,remote",1,9,16
+r2,editor,cuts,"remote,final",1,9,16

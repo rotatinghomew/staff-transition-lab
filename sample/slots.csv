@@ -1,0 +1,8 @@
+id,week,shift,role,skill,event_type,mode,mentor,capacity
+f1,8,am,ops,cues,final,supervised,nin,1
+f2,8,am,ops,switch,remote,supervised,nin,1
+f3,8,am,ops,cues,final,independent,-,1
+f4,8,pm,editor,cuts,final,supervised,he,1
+f5,9,am,ops,cues,local,supervised,shi,2
+f6,9,am,ops,switch,remote,dryrun,shi,2
+f7,9,pm,ops,cues,final,supervised,nin,1

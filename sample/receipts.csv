@@ -1,0 +1,7 @@
+seq,week,action,ref,actor
+1,7,assign,f1,mi
+2,7,assign,f3,lu
+3,7,assign,f4,mei
+4,8,absent,f1,nin
+5,8,withdraw,v3,nin
+6,9,confirmed,f4,mei

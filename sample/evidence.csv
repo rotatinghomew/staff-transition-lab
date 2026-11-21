@@ -1,0 +1,11 @@
+id,pupil,week,role,skill,event_type,contribution,artifact,mentor
+v1,lu,2,ops,cues,local,solo,l1,nin
+v2,lu,3,ops,cues,final,assist,l2,nin
+v3,lu,4,ops,cues,final,solo,l3,nin
+v4,lu,5,ops,switch,local,solo,l4,nin
+v5,lu,5,ops,cues,final,solo,l3,shi
+v6,mi,3,ops,cues,local,solo,m1,shi
+v7,mi,4,ops,switch,local,solo,m2,nin
+v8,mei,4,editor,cuts,remote,solo,b1,he
+v9,mei,5,editor,cuts,local,solo,b2,he
+v10,mei,6,editor,cuts,final,assist,b3,he

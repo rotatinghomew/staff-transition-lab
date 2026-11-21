@@ -1,0 +1,4 @@
+id,role,since,until,event_types
+nin,ops,1,12,"local,final"
+shi,ops,1,12,"local,remote"
+he,editor,1,12,"local,remote,final"
