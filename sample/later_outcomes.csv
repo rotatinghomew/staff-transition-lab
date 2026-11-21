@@ -1,0 +1,16 @@
+id,observer,status,known_week
+h02,shi,pass,-22
+h03,nin,pass,-22
+h04,nin,fail,-22
+h05,shi,fail,-22
+h07,he,pass,-14
+h08,nin,fail,-14
+h10,shi,pass,-14
+h11,nin,pass,-14
+h12,he,lost,-14
+h13,shi,fail,-6
+h14,he,pass,-6
+h15,shi,pass,-6
+h17,he,lost,-6
+h18,nin,pending,-7
+h18,nin,pass,-6

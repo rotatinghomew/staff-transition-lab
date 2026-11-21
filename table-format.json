@@ -43,5 +43,24 @@
     "action": "str",
     "ref": "str",
     "actor": "str"
+  },
+  "past_candidates": {
+    "id": "str",
+    "cohort": "str",
+    "week": "int",
+    "role": "str",
+    "edition": "str",
+    "track": "str",
+    "mentor": "str",
+    "profile": "str",
+    "assisted": "int",
+    "solo": "int",
+    "assigned": "bool"
+  },
+  "later_outcomes": {
+    "id": "str",
+    "observer": "str",
+    "status": "str",
+    "known_week": "int"
   }
 }
